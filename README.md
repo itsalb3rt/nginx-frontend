@@ -1,6 +1,12 @@
 # nginx-frontend
 
-Change `env` variables without re compile (build) your Javascript Apps
+Change `env` variables without re compile (build) your Javascript Apps. 
+
+```bash
+$ docker-compose down
+# change your env variable value and and
+$ docker-compose up
+```
 
 ## Dockerfile
 
