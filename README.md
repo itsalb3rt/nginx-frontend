@@ -1,6 +1,6 @@
 # nginx-frontend
 
-Change env variables without re compile (build) your Javascript Apps
+Change `env` variables without re compile (build) your Javascript Apps
 
 ## Dockerfile
 
